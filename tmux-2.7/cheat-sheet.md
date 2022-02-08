@@ -4,6 +4,7 @@
 |**List sessions**|*Prefix* + **s**|
 |**Rename the current session**|*Prefix* + **$**|
 |**Detach from the current session**|*Prefix* + **d**|
+|**List currently attached clients**|*Prefix* + **D**|
 |***Create new session***|*Prefix* + **S**|
 |***Kill session***|*Prefix* + **K**|
 
