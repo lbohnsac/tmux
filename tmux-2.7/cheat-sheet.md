@@ -26,7 +26,7 @@
 |**Split panes vertically**|*Prefix* + **%**|
 |**Split panes horizontally**|*Prefix* + **"**|
 |**Zoom pane**|*Prefix* + **z**|
-|**Kill in/out pane**|*Prefix* + **x**|
+|**Kill current pane**|*Prefix* + **x**|
 |**Break the pane out of the window**|*Prefix* + **!**|
 |**Show time in current pane**|*Prefix* + **t**|
 |**Resize the panes on the same row evenly**|*Prefix* + **E**|
