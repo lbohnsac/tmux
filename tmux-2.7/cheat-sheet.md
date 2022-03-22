@@ -16,6 +16,7 @@
 |**Rename a window**|*Prefix* + **,**|
 |**Select windows 0 through 9**|*Prefix* + **0** to **9**|
 |**List all windows**|*Prefix* + **w**|
+|***Respawn window*** | *Prefix* + **R** |
 |***Shift current window to the left***|**`Shift`** + **`Ctrl`** + `⇒`|
 |***Shift current window to the right***|**`Shift`** + **`Ctrl`** + `⇐`|
 
