@@ -36,4 +36,5 @@
 |**Select the pane above**|*Prefix* + **`⇑`**|
 |**Select the pane on the right**|*Prefix* + **`⇒`**|
 |***Toggle syncronize panes***|*Prefix* + **a**|
+|***Send current pane to given window number***|*Prefix* + **`Ctrl`** + **s** 
 |***Save current pane in file ~/tmux.log***|*Prefix* + **C**|
