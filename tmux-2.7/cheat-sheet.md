@@ -77,3 +77,4 @@
 |**List current key-bindings**|*Prefix* **`?`**|
 |**List all paste buffers**|*Prefix* **`#`**|
 |**Choose a paste buffer from a list**|*Prefix* **`=`**|
+|**Delete the most recent paste buffer**|*Prefix* **`-`**|
