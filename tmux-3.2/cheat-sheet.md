@@ -1,1 +1,0 @@
-../tmux-2.7/cheat-sheet.md
