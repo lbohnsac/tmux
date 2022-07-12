@@ -18,8 +18,8 @@
 |**List sessions**|*Prefix* **`s`**|
 |**Rename the current session**|*Prefix* **`$`**|
 |**Detach from the current session**|*Prefix* **`d`**|
-|***Create new session***|*Prefix* + **`Shift`** **`s`**|
-- |***Kill session***|*Prefix* **`Shift`** **`k`**|
+|***Create new session***|*Prefix* + **`Shift`** + **`s`**|
+- |***Kill session***|*Prefix* **`Shift`** + **`k`**|
 
 ### Window handling
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Action&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shortcut&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
@@ -30,9 +30,9 @@
 |**Rename a window**|*Prefix* **`,`**|
 |**Select windows 0 through 9**|*Prefix* **`0`** to **`9`**|
 |**List all windows**|*Prefix* **`w`**|
-|***Respawn window*** | *Prefix* **`Shift`** **`r`** |
-|***Shift current window to the left***|**`Shift`** **`Ctrl`** `⇒`|
-|***Shift current window to the right***|**`Shift`** **`Ctrl`** `⇐`|
+|***Respawn window*** | *Prefix* **`Shift`** + **`r`** |
+|***Shift current window to the left***|**`Shift`** + **`Ctrl`** `⇒`|
+|***Shift current window to the right***|**`Shift`** + **`Ctrl`** `⇐`|
 
 ### Pane handling
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Action&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shortcut&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
@@ -44,19 +44,19 @@
 |**Kill current pane**|*Prefix* **`x`**|
 |**Break the pane out of the window**|*Prefix* **`!`**|
 |**Show time in current pane**|*Prefix* **`t`**|
-|**Resize the panes on the same row evenly**|*Prefix* **`Shift`** **`e`**|
-|**Rotate the panes (numerically lower)**|*Prefix* **`Ctrl`** **`o`**|
+|**Resize the panes on the same row evenly**|*Prefix* **`Shift`** + **`e`**|
+|**Rotate the panes (numerically lower)**|*Prefix* **`Ctrl`** + **`o`**|
 |**Select the pane on the left**|*Prefix* **`⇐`**|
 |**Select the pane below**|*Prefix* **`⇓`**|
 |**Select the pane above**|*Prefix* **`⇑`**|
 |**Select the pane on the right**|*Prefix* **`⇒`**|
 |***Toggle syncronize panes***|*Prefix* **`a`**|
-|***Send current pane to given window number***|*Prefix* **`Ctrl`** **`s`**|
-|***Grab active pane/window from given window<br/>number and joins it as pane to current window***|*Prefix* **`Ctrl`** **`j`**| 
-|***Save current pane in file ~/tmux.log***|*Prefix* **`Shift`** **`c`**|
-|***Names a pane***|*Prefix* **`Alt`** **`p`**|
-|***Shows pane titles***|*Prefix* **`Ctrl`** **`p`**|
-|***Hides pane titles***|*Prefix* **`Shift`** **`P`**|
+|***Send current pane to given window number***|*Prefix* **`Ctrl`** + **`s`**|
+|***Grab active pane/window from given window<br/>number and joins it as pane to current window***|*Prefix* **`Ctrl`** + **`j`**| 
+|***Save current pane in file ~/tmux.log***|*Prefix* **`Shift`** + **`c`**|
+|***Names a pane***|*Prefix* **`Alt`** + **`p`**|
+|***Shows pane titles***|*Prefix* **`Ctrl`** + **`p`**|
+|***Hides pane titles***|*Prefix* **`Shift`** + **`P`**|
 
 ### Copy Mode (vi)
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Action&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shortcut&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
