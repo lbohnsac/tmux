@@ -66,18 +66,23 @@
 |**Begin selection**|**`SPACE`**|
 |**Copy selection**|**`ENTER`**|
 |**Clear selection**|**`ESC`**|
-|**Move left**|**`h`**|
-|**Move down**|**`j`**|
-|**Move up**|**`k`**|
-|**Move right**|**`l`**|
+|**Move cursor left**|**`h`**|
+|**Move cursor down**|**`j`**|
+|**Move cursor up**|**`k`**|
+|**Move cursor right**|**`l`**|
 |**Move to start of line**|**`0`** (zero)|
-|**Move to end of line**|**`$`**|
-|**Start rectangular selection**|**`v`**|
+|**Move to end of line**|**`$`**||**Move to next word
+|**Move to previous word**|**`b`**|
+|**Move to next word**|**`w`**|
+|**Move to next word end**|**`e`**|
+|**Select current line**|**`Shift`** + **`v`**|
+|**Switch to rectangular selection**|**`Ctrl`** + **`v`**|
 |**Jump to the other end of the selection**|**`o`**|
 |**Move to the first line of the screen**|**`Shift`** + **`h`**|
 |**Move to the middle line of the screen**|**`Shift`** + **`m`**|
 |**Move to the last line of the screen**|**`Shift`** + **`l`**|
-|**Move to end of history**|**`Shift`** + **g**
+|**Move to begin of history**|**`g`**|
+|**Move to end of history**|**`Shift`** + **`g`**
 |**Paste the most recent paste buffer**|*Prefix* **`]`**|
 
 ### Miscellaneous
