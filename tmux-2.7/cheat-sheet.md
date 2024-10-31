@@ -25,6 +25,7 @@
 |&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Action&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Shortcut&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|
 |---|---|
 |**Create new window**|*Prefix* **`c`**|
+|**Kill the current window**|*Prefix* **`&`**|
 |**Next window**|*Prefix* **`n`**|
 |**Previous window**|*Prefix* **`p`**|
 |**Rename a window**|*Prefix* **`,`**|
@@ -46,6 +47,8 @@
 |**Show time in current pane**|*Prefix* **`t`**|
 |**Resize the panes on the same row evenly**|*Prefix* **`Shift`** + **`e`**|
 |**Rotate the panes (numerically lower)**|*Prefix* **`Ctrl`** + **`o`**|
+|**Move to the previously active pane**|*Prefix* **`;`**|
+|**Rotate the panes in the current window forwards**|*Prefix* **`Ctrl`** + **`o`**|
 |**Select the pane on the left**|*Prefix* **`⇐`**|
 |**Select the pane below**|*Prefix* **`⇓`**|
 |**Select the pane above**|*Prefix* **`⇑`**|
