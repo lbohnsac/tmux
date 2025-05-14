@@ -55,7 +55,7 @@
 |**Select the pane on the right**|*Prefix* **`⇒`**|
 |***Toggle syncronize panes***|*Prefix* **`a`**|
 |***Send current pane to given window number***|*Prefix* **`Ctrl`** + **`s`**|
-|***Grab active pane/window from given window<br/>number and joins it as pane to current window***|*Prefix* **`Ctrl`** + **`j`**| 
+|***Grab active pane/window from given window<br/>number and joins it as pane to current window***|*Prefix* **`Ctrl`** + **`j`**|
 |***Save current pane in file ~/tmux.log***|*Prefix* **`Shift`** + **`c`**|
 |***Names a pane***|*Prefix* **`Alt`** + **`p`**|
 |***Shows pane titles***|*Prefix* **`Ctrl`** + **`p`**|
