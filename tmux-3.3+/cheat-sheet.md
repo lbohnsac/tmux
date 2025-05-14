@@ -54,9 +54,9 @@
 |***Send current pane to given window number***|*Prefix* **`Ctrl`** + **`s`**|
 |***Grab active pane/window from given window<br/>number and joins it as pane to current window***|*Prefix* **`Ctrl`** + **`j`**|
 |***Save current pane in file ~/tmux.log***|*Prefix* **`Shift`** + **`c`**|
-|***Names a pane***|*Prefix* **`Alt`** + **`p`**|
-|***Shows pane titles***|*Prefix* **`Ctrl`** + **`p`**|
-|***Hides pane titles***|*Prefix* **`Shift`** + **`p`**|
+|***Names a pane***|*Prefix* **`Alt`** + **`b`**|
+|***Shows pane titles***|*Prefix* **`Ctrl`** + **`b`**|
+|***Hides pane titles***|*Prefix* **`Shift`** + **`b`**|
 |***Open popup***|*Prefix* **`Ctrl`** + **`p`**|
 
 ### Copy Mode (vi)
