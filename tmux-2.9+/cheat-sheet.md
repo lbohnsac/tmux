@@ -64,12 +64,30 @@
 |**Enter copy mode**|*Prefix* **`[`**|
 |**Quit copy mode**|**`q`**|
 |**Begin selection**|**`SPACE`**|
+|**Select current line**|**`Ctrl`** + **`v`**|
+|**Toggle rectangle selection mode**|**`v`**|
+|**Switch cursor to the other end of the selection**|**`o`**|
 |**Copy selection**|**`ENTER`**|
 |**Clear selection**|**`ESC`**|
 |**Move left**|**`h`**|
 |**Move down**|**`j`**|
 |**Move up**|**`k`**|
 |**Move right**|**`l`**|
+|**Move half page down**|**`Ctrl`** + **`d`**|
+|**Move half page up**|**`Ctrl`** + **`u`**|
+|**Move page down**|**`Ctrl`** + **`f`**|
+|**Move page up**|**`Ctrl`** + **`b`**|
+|**Move to the start of the current line**|**`0`**|
+|**Move to the end of the current line**|**`$`**|
+|**Move to the top line**|**`Shift`** + **`h`**|
+|**Move to the middle line**|**`Shift`** + **`m`**|
+|**Move to the bottom line**|**`Shift`** + **`b`**|
+|**Jump to the top of the history**|**`g`**|
+|**Jump to the bottom of the history**|**`Shift`** + **`g`**|
+|**Search forward**|**`/`**|
+|**Search backward**|**`?`**|
+|**Search again forward**|**`n`**|
+|**Search again backward**|**`Shift`** + **`n`**|
 |**Paste the most recent paste buffer**|*Prefix* **`]`**|
 
 ### Miscellaneous
