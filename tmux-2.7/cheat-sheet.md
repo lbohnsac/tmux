@@ -67,25 +67,30 @@
 |**Enter copy mode**|*Prefix* **`[`**|
 |**Quit copy mode**|**`q`**|
 |**Begin selection**|**`SPACE`**|
+|**Select current line**|**`Ctrl`** + **`v`**|
+|**Toggle rectangle selection mode**|**`v`**|
+|**Switch cursor to the other end of the selection**|**`o`**|
 |**Copy selection**|**`ENTER`**|
 |**Clear selection**|**`ESC`**|
-|**Move cursor left**|**`h`**|
-|**Move cursor down**|**`j`**|
-|**Move cursor up**|**`k`**|
-|**Move cursor right**|**`l`**|
-|**Move to start of line**|**`0`** (zero)|
-|**Move to end of line**|**`$`**||**Move to next word
-|**Move to previous word**|**`b`**|
-|**Move to next word**|**`w`**|
-|**Move to next word end**|**`e`**|
-|**Select current line**|**`Shift`** + **`v`**|
-|**Switch to rectangular selection**|**`Ctrl`** + **`v`**|
-|**Jump to the other end of the selection**|**`o`**|
-|**Move to the first line of the screen**|**`Shift`** + **`h`**|
-|**Move to the middle line of the screen**|**`Shift`** + **`m`**|
-|**Move to the last line of the screen**|**`Shift`** + **`l`**|
-|**Move to begin of history**|**`g`**|
-|**Move to end of history**|**`Shift`** + **`g`**
+|**Move left**|**`h`**|
+|**Move down**|**`j`**|
+|**Move up**|**`k`**|
+|**Move right**|**`l`**|
+|**Move half page down**|**`Ctrl`** + **`d`**|
+|**Move half page up**|**`Ctrl`** + **`u`**|
+|**Move page down**|**`Ctrl`** + **`f`**|
+|**Move page up**|**`Ctrl`** + **`b`**|
+|**Move to the start of the current line**|**`0`**|
+|**Move to the end of the current line**|**`$`**|
+|**Move to the top line**|**`Shift`** + **`h`**|
+|**Move to the middle line**|**`Shift`** + **`m`**|
+|**Move to the bottom line**|**`Shift`** + **`b`**|
+|**Jump to the top of the history**|**`g`**|
+|**Jump to the bottom of the history**|**`Shift`** + **`g`**|
+|**Search forward**|**`/`**|
+|**Search backward**|**`?`**|
+|**Search again forward**|**`n`**|
+|**Search again backward**|**`Shift`** + **`n`**|
 |**Paste the most recent paste buffer**|*Prefix* **`]`**|
 
 ### Miscellaneous
